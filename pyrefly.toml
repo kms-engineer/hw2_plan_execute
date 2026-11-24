@@ -1,0 +1,2 @@
+# Type checker (Pyrefly) бере пакети з venv проєкту, а не з системного/Anaconda Python
+python-interpreter-path = ".venv/bin/python"
